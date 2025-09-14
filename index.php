@@ -60,7 +60,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   <div class="row justify-content-center">
     <div class="col-md-6">
       <div class="card shadow p-4">
-        <h3 class="text-center mb-4">User Registration</h3>
+        <h3 class="text-center mb-4">uoj project</h3>
 
         <!-- form -->
         <form action="index.php" method="POST">
